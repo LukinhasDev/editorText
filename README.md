@@ -1,0 +1,1 @@
+Simples editor de texto feito com javascript
